@@ -8,11 +8,11 @@
 ## 2. Configuration
 - **Set global username**:
   
-  `git config --global user.name "LondheShubham153"`
+  `git config --global user.name "bidhan.soni"`
 
 - **Set global email**:
   
-  `git config --global user.email "shubhamnath5@gmail.com"`
+  `git config --global user.email "bidhansoni99@gmail.com"`
 
 ## 3. File Operations
 - **Create a new file**:
